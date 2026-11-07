@@ -1,0 +1,52 @@
+1:"$Sreact.fragment"
+2:"/WhiteDent/_next/static/chunks/1ua2kfq9s-me6.js"
+3:"/WhiteDent/_next/static/chunks/0ot0rpjphy0z_.js"
+4:I[45872,["$2","$3"],"Header"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:"/WhiteDent/_next/static/chunks/003d53tc8vz46.js"
+8:I[22016,["$2","$3","$7"],""]
+9:I[85437,["$2","$3"],"Image"]
+a:I[5014,["$2","$3","$7"],"default"]
+11:I[94604,["$2","$3","$7"],"Reveal"]
+23:"ViewportBoundary"
+24:I[97367,["$2","$3"],"$23"]
+25:"MetadataBoundary"
+26:I[97367,["$2","$3"],"$25"]
+27:"$Sreact.suspense"
+:HL["/WhiteDent/_next/static/chunks/2ay0oo8q7ttwu.css","style"]
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","tabIndex":-1,"children":[["$","section",null,{"className":"page-heading","children":["$","div",null,{"className":"container","children":[["$","nav",null,{"aria-label":"Хлебные крошки","className":"breadcrumbs","children":[["$","$L8",null,{"href":"/","children":"Главная"}],["$","span",null,{"aria-hidden":"true","children":"/"}],"$undefined",["$","span",null,{"aria-current":"page","children":"Конфиденциальность"}]]}],["$","$L11",null,{"children":[["$","p",null,{"className":"eyebrow","children":["WhiteDent / ","Конфиденциальность"]}],["$","h1",null,{"children":["Данные.",["$","br",null,{}],["$","em",null,{"children":"С вниманием к деталям."}]]}],["$","p",null,{"className":"page-description","children":"Структура будущей политики конфиденциальности. Не является окончательно согласованным юридическим документом."}]]}]]}]}],["$","section",null,{"className":"section section-light","children":["$","div",null,{"className":"container legal-copy","children":[["$","aside",null,{"className":"content-notice","children":[["$","$La",null,{"icon":{"name":"info","size":24,"node":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"M12 16v-4","key":"1dtifu"}],["path",{"d":"M12 8h.01","key":"e9boi3"}]]},"size":20,"aria-hidden":"true"}],["$","p",null,{"children":"Черновик. Перед реальной отправкой обращений необходимо описать фактические процессы обработки данных и согласовать документ с ответственным лицом."}]]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]]}],["$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$c"}}]]
+d:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/WhiteDent/_next/static/chunks/2ay0oo8q7ttwu.css","precedence":"next"}],["$","script","script-0",{"src":"/WhiteDent/_next/static/chunks/1ua2kfq9s-me6.js","async":true}],["$","script","script-1",{"src":"/WhiteDent/_next/static/chunks/0ot0rpjphy0z_.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Перейти к содержимому"}],["$","aside",null,{"className":"demo-banner","aria-label":"Демонстрационный режим","children":["Концепция WhiteDent ",["$","span",null,{"aria-hidden":"true","children":"/"}]," Демонстрационная версия · запись недоступна"]}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","main",null,{"id":"main","className":"not-found container","children":[["$","p",null,{"className":"eyebrow","children":"404 / Страница не найдена"}],["$","h1",null,{"children":["Вернёмся",["$","br",null,{}],["$","em",null,{"children":"к началу?"}]]}],["$","p",null,{"children":"По этому адресу пока нет страницы."}],["$","$L8",null,{"href":"/","className":"button button-gold","children":"На главную ↗"}]]}],[]]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"footer-top","children":[["$","$L8",null,{"href":"/","className":"brand-home","title":"На главную","children":["$","span",null,{"className":"brand-lockup brand-footer","children":[["$","$L9",null,{"src":"/WhiteDent/brand/whitedent-logo.png","width":300,"height":300,"alt":"WhiteDent — оригинальный логотип WD","className":"brand-logo","loading":"lazy","unoptimized":true}],["$","span",null,{"className":"brand-copy","children":[["$","span",null,{"className":"brand-name","children":"WhiteDent"}],["$","span",null,{"className":"brand-tagline","children":["Караганда"," · стоматология"]}]]}]]}]}],["$","nav",null,{"aria-label":"Навигация в подвале","children":[["$","$L8","/about",{"href":"/about","children":"О клинике"}],["$","$L8","/services",{"href":"/services","children":"Направления"}],["$","$L8","/doctors",{"href":"/doctors","children":"Врачи"}],["$","$L8","/#faq",{"href":"/#faq","children":"Вопросы"}],["$","$L8","/contacts",{"href":"/contacts","children":"Контакты"}]]}],["$","a",null,{"href":"https://2gis.kz/karaganda/firm/70000001080243152","target":"_blank","rel":"noopener noreferrer","className":"text-link","children":["Карточка в 2ГИС ",["$","$La",null,{"icon":{"name":"arrow-up-right","size":24,"node":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]]},"size":16,"aria-hidden":"true"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","span",null,{"children":["© ",2026," WhiteDent · Концепция сайта"]}],["$","span",null,{"children":"Демонстрационная версия. Не является медицинской рекомендацией."}]]}],["$","p",null,{"className":"footer-note","children":"Контакты, медицинские сведения и материалы ожидают согласования. Демонстрационная форма работает локально и не отправляет обращения."}],["$","$L8",null,{"href":"/privacy","className":"privacy-link","children":"Конфиденциальность · черновик"}]]}]}]]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Конфиденциальность · Черновик | WhiteDent"}],["$","meta","1",{"name":"description","content":"Структура политики конфиденциальности для демонстрационного проекта WhiteDent. Документ требует юридической проверки."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","3",{"property":"og:title","content":"Конфиденциальность · Черновик | WhiteDent"}],["$","meta","4",{"property":"og:description","content":"Структура политики конфиденциальности для демонстрационного проекта WhiteDent. Документ требует юридической проверки."}],["$","meta","5",{"property":"og:site_name","content":"WhiteDent · Демонстрационная концепция"}],["$","meta","6",{"property":"og:locale","content":"ru_KZ"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Конфиденциальность · Черновик | WhiteDent"}],["$","meta","10",{"name":"twitter:description","content":"Структура политики конфиденциальности для демонстрационного проекта WhiteDent. Документ требует юридической проверки."}],"$L28","$L29"]}]}],null]}],null]}],"p":"$@2a","v":null,"s":"$c"}},"a":"$@2b","u":"$@2c","b":"pL6nzgecNWeYruBM4FKcE"}
+2d:I[97367,["$2","$3"],"OutletBoundary"]
+2f:I[27201,["$2","$3"],"IconMark"]
+12:["$","h2",null,{"children":"1. Оператор и контакты"}]
+13:["$","p",null,{"children":"Юридическое наименование оператора сайта, реквизиты и контакт для запросов о персональных данных пока не предоставлены. Эти сведения должны быть заполнены и проверены до официального запуска."}]
+14:["$","h2",null,{"children":"2. Демонстрационная форма"}]
+15:["$","p",null,{"children":"Форма проверяет имя, формат телефона и подтверждение понимания деморежима. Введённые значения используются только в памяти страницы. Приложение не отправляет их на сервер и не сохраняет в localStorage, sessionStorage или cookies. При обычной перезагрузке страницы состояние формы сбрасывается. Используйте вымышленные данные."}]
+16:["$","h2",null,{"children":"3. Технические запросы"}]
+17:["$","p",null,{"children":"Загрузка страниц и файлов требует сетевых запросов. Состав и срок хранения технических журналов будущего хостинга необходимо отдельно проверить и описать. Эта версия приложения не подключает аналитику, рекламные пиксели или сторонний виджет карты."}]
+18:["$","h2",null,{"children":"4. Будущая обработка обращений"}]
+19:["$","p",null,{"children":"Перед подключением отправки нужно определить цели и правовые основания обработки, обязательные поля, получателей, место хранения, сроки удаления, меры защиты и применимые требования законодательства Казахстана. Текущий флажок формы подтверждает только понимание демонстрации и не заменяет согласие на реальную обработку."}]
+1a:["$","h2",null,{"children":"5. Права и обращения"}]
+1b:["$","p",null,{"children":"Процедуры доступа, исправления и удаления данных, отзыва согласия и подачи запросов будут описаны после определения оператора и реальных процессов. Проверенный контакт ответственного лица пока отсутствует."}]
+1c:["$","h2",null,{"children":"6. Внешние ресурсы"}]
+1d:["$","p",null,{"children":"При переходе в 2ГИС пользователь открывает внешний ресурс с собственными условиями и политикой обработки данных. Карта не загружается на этой странице автоматически."}]
+1e:["$","h2",null,{"children":"7. Утверждение документа"}]
+1f:["$","p",null,{"children":"Окончательная редакция, дата вступления в силу и сведения об изменениях появятся только после проверки и согласования. Демонстрационная версия не предназначена для сбора реальных обращений."}]
+20:["$","script","script-0",{"src":"/WhiteDent/_next/static/chunks/003d53tc8vz46.js","async":true}]
+21:["$","$L2d",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+28:["$","link","11",{"rel":"icon","href":"/WhiteDent/brand/whitedent-logo.png","type":"image/png","sizes":"300x300"}]
+29:["$","$L2f","12",{}]
+c:300
+2e:null
+2c:true
+c:C
+2b:0
+e:"$undefined"
+b:"$undefined"
+2a:"$undefined"
+22:"$undefined"

@@ -8,7 +8,11 @@
     "start": "next start --hostname 0.0.0.0",
     "typecheck": "next typegen && tsc --noEmit",
     "test:e2e": "playwright test",
-    "test:quality": "playwright test tests/e2e/quality.spec.ts"
+    "test:quality": "playwright test tests/e2e/quality.spec.ts",
+    "build:pages": "node scripts/build-pages.mjs",
+    "preview:pages": "node scripts/serve-pages.mjs",
+    "test:pages": "playwright test --config=playwright.pages.config.ts",
+    "deploy:pages": "node scripts/publish-pages.mjs"
   },
   "engines": {
     "node": ">=22 <25"

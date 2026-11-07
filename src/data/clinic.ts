@@ -1,4 +1,5 @@
 import type { ContentFact } from "@/types/content";
+import { assetPath } from "@/config/site";
 
 const brief = "Техническое задание WhiteDent v2.0; источники повторно не подтверждены клиникой";
 
@@ -10,7 +11,7 @@ export const clinic = {
   mode: "demo",
   // Owner-provided PNG, moved byte-for-byte from dfcc5e.png in origin/main.
   logo: {
-    src: "/brand/whitedent-logo.png",
+    src: assetPath("/brand/whitedent-logo.png"),
     width: 300,
     height: 300,
     alt: "WhiteDent — оригинальный логотип WD",
